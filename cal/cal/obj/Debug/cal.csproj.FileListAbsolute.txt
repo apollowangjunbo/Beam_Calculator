@@ -1,0 +1,46 @@
+d:\users\dell\documents\visual studio 2012\Projects\cal\cal\bin\Debug\cal.exe.config
+d:\users\dell\documents\visual studio 2012\Projects\cal\cal\bin\Debug\cal.exe
+d:\users\dell\documents\visual studio 2012\Projects\cal\cal\bin\Debug\cal.pdb
+d:\users\dell\documents\visual studio 2012\Projects\cal\cal\obj\Debug\cal.csprojResolveAssemblyReference.cache
+d:\users\dell\documents\visual studio 2012\Projects\cal\cal\obj\Debug\cal.Form1.resources
+d:\users\dell\documents\visual studio 2012\Projects\cal\cal\obj\Debug\cal.Properties.Resources.resources
+d:\users\dell\documents\visual studio 2012\Projects\cal\cal\obj\Debug\cal.csproj.GenerateResource.Cache
+d:\users\dell\documents\visual studio 2012\Projects\cal\cal\obj\Debug\cal.exe
+d:\users\dell\documents\visual studio 2012\Projects\cal\cal\obj\Debug\cal.pdb
+d:\users\dell\documents\visual studio 2012\Projects\cal\cal\obj\Debug\cal.Form2.resources
+d:\users\dell\documents\visual studio 2012\Projects\cal\cal\obj\Debug\cal.Form3.resources
+d:\Users\DELL\documents\visual studio 2012\Projects\cal\cal\obj\Debug\cal.closeWindow.resources
+d:\Users\DELL\documents\visual studio 2012\Projects\cal\cal\obj\Debug\cal.Form4.resources
+d:\Users\DELL\documents\visual studio 2012\Projects\cal\cal\obj\Debug\cal.Form5.resources
+E:\桌面\cal\cal\bin\Debug\cal.exe.config
+E:\桌面\cal\cal\obj\Debug\cal.exe
+E:\桌面\cal\cal\obj\Debug\cal.pdb
+E:\桌面\cal\cal\bin\Debug\cal.exe
+E:\桌面\cal\cal\bin\Debug\cal.pdb
+E:\桌面\cal\cal\obj\Debug\cal.csprojResolveAssemblyReference.cache
+E:\桌面\cal\cal\obj\Debug\cal.closeWindow.resources
+E:\桌面\cal\cal\obj\Debug\cal.Form1.resources
+E:\桌面\cal\cal\obj\Debug\cal.Form2.resources
+E:\桌面\cal\cal\obj\Debug\cal.Form3.resources
+E:\桌面\cal\cal\obj\Debug\cal.Form4.resources
+E:\桌面\cal\cal\obj\Debug\cal.Form5.resources
+E:\桌面\cal\cal\obj\Debug\cal.Properties.Resources.resources
+E:\桌面\cal\cal\obj\Debug\cal.csproj.GenerateResource.Cache
+E:\桌面\复合截面梁计算器\cal\cal\bin\Debug\cal.exe.config
+E:\桌面\复合截面梁计算器\cal\cal\obj\Debug\cal.exe
+E:\桌面\复合截面梁计算器\cal\cal\obj\Debug\cal.pdb
+E:\桌面\复合截面梁计算器\cal\cal\obj\Debug\cal.csprojResolveAssemblyReference.cache
+E:\桌面\复合截面梁计算器\cal\cal\obj\Debug\cal.closeWindow.resources
+E:\桌面\复合截面梁计算器\cal\cal\obj\Debug\cal.Form1.resources
+E:\桌面\复合截面梁计算器\cal\cal\obj\Debug\cal.Form2.resources
+E:\桌面\复合截面梁计算器\cal\cal\obj\Debug\cal.Form3.resources
+E:\桌面\复合截面梁计算器\cal\cal\obj\Debug\cal.Form4.resources
+E:\桌面\复合截面梁计算器\cal\cal\obj\Debug\cal.Form5.resources
+E:\桌面\复合截面梁计算器\cal\cal\obj\Debug\cal.Properties.Resources.resources
+E:\桌面\复合截面梁计算器\cal\cal\obj\Debug\cal.csproj.GenerateResource.Cache
+E:\桌面\复合截面梁计算器\cal\cal\bin\Debug\cal.exe
+E:\桌面\复合截面梁计算器\cal\cal\bin\Debug\cal.pdb
+E:\桌面\复合截面梁计算器\cal\cal\obj\Debug\cal.Form6.resources
+D:\用户文件\旧电脑\桌面\我的作品\材力程序\复合截面梁计算器\cal\cal\bin\Debug\cal.exe.config
+D:\用户文件\旧电脑\桌面\我的作品\材力程序\复合截面梁计算器\cal\cal\obj\Debug\cal.exe
+D:\用户文件\旧电脑\桌面\我的作品\材力程序\复合截面梁计算器\cal\cal\obj\Debug\cal.pdb
